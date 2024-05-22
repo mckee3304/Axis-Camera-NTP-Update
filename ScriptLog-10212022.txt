@@ -1,0 +1,24 @@
+Start Time: 2022-10-21 04:10:47
+Success      192.168.1.42   Backyard East
+Success      192.168.1.43   Backyard West
+Success      192.168.1.44   Barn Interior
+Success      192.168.1.41   Front Driveway
+Ping Failed     192.168.1.41   Front Driveway
+End Time: 2022-10-21 04:10:58
+Total Execution Time: 0.18 Minutes
+Start Time: 2022-10-21 04:12:11
+Success      192.168.1.42   Backyard East
+Success      192.168.1.43   Backyard West
+Success      192.168.1.44   Barn Interior
+Success      192.168.1.41   Front Driveway
+Ping Failed     192.168.1.41   Front Driveway
+End Time: 2022-10-21 04:12:27
+Total Execution Time: 0.28 Minutes
+Start Time: 2022-10-21 04:12:49
+Success      192.168.1.42   Backyard East
+Success      192.168.1.43   Backyard West
+Success      192.168.1.44   Barn Interior
+Success      192.168.1.41   Front Driveway
+Ping Failed     192.168.1.41   Front Driveway
+End Time: 2022-10-21 04:13:05
+Total Execution Time: 0.27 Minutes
