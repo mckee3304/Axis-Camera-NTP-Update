@@ -1,6 +1,5 @@
 Device,IPAddress
-Backyard Camera,192.168.1.42
-Front Yard Camera,192.168.1.43
-Barn Camera,192.168.1.44
-Driveway Camera,192.168.1.41
-Test Fail,192.168.2.80
+Front Yard Camera,192.168.1.2
+Driveway Camera,192.168.1.3
+Back Yard Camera,192.168.1.4
+East Camera,192.168.1.5
