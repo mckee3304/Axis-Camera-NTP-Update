@@ -8,4 +8,4 @@ Once the devicelist.csv file is saved, run the ntp.py script. Upon start of the 
 
 
 
-<a href="https://www.buymeacoffee.com/mckee3304" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/mckee3304" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
